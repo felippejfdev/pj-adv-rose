@@ -7,7 +7,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "Open Sans", sans-serif;
-   
+ 
 }
 
 body {
@@ -130,6 +130,7 @@ input {
     width: 150px;
     height: 35px;
     border-radius: 5px;
+    box-shadow: none;
 }
 
 ::placeholder {
@@ -145,27 +146,27 @@ input {
     gap: 20px;
     justify-content: center;
     align-items: center;
-border: none;
-outline: none;
+    border: none;
+    outline: none;
 
 }
 
-iframe{
+iframe {
     width: 350px;
     height: 300px;
     margin: 18px;
     border-radius: 5px;
-    border: none;
     outline: none;
+    
 }
 
-.p-3{
+.p-3 {
     text-indent: 1.5em;
     color: white;
     text-decoration: none;
 }
 
-.conteiner-6{
+.conteiner-6 {
     display: flex;
     flex-direction: column;
     gap: 5px;
@@ -175,11 +176,11 @@ iframe{
 
 
 
-.icon{
+.icon {
     width: 20px;
 }
 
-.conteiner-7{
+.conteiner-7 {
     display: flex;
     flex-direction: column;
     gap: 5px;
@@ -187,8 +188,8 @@ iframe{
     align-items: center;
 }
 
-.p-4{
+.p-4 {
     color: white;
     margin: 18px;
-    border:  2px solid white;
+    border: 2px solid white;
 }
