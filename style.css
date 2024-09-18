@@ -59,6 +59,10 @@ body {
     width: 20px;
 }
 
+#wpp{
+    width: 70px;
+}
+
 h2 {
     text-align: center;
     color: #fbff00;
@@ -139,12 +143,7 @@ button {
     cursor: pointer;
 }
 
-input {
-    width: 150px;
-    height: 35px;
-    border-radius: 5px;
-    box-shadow: none;
-}
+
 
 ::placeholder {
     font-size: 18px;
