@@ -34,10 +34,12 @@ body {
 .p-1 {
     color: white;
     margin: 10px;
-    font-size: 20px;
+    padding: 10px;
+    font-size: 23px;
     text-indent: 1.5em;
-    line-height: 27px;
+    line-height: 32px;
 
+    border: 1px solid #b3a163;
 }
 
 .icones {
@@ -52,15 +54,16 @@ body {
 }
 
 #wpp {
-    width: 60px;
-    
+    width: 50px;
+
 
 }
 
 h2 {
     text-align: center;
-    color: #fbff00;
+    color: #b3a163;
     margin: 30px;
+    font-size: 37px;
 
 }
 
@@ -75,14 +78,14 @@ h2 {
 
 li {
     color: white;
-    font-size: 18px;
+    font-size: 20px;
     margin: 7px;
 
 }
 
 
 strong {
-    color: #fbff00;
+    color: #b3a163;
     font-size: 22px;
 
 }
@@ -98,18 +101,19 @@ strong {
 .P-10 {
     color: white;
     margin: 10px;
-    font-size: 20px;
+    font-size: 27px;
     text-indent: 0.3em;
-    line-height: 27px;
+    line-height: 37px;
     text-align: center;
 }
 
 .p-2 {
     color: white;
     margin: 10px;
-    font-size: 20px;
+    font-size: 27px;
     text-indent: 0.3em;
-    line-height: 27px;
+    line-height: 37px;
+    text-align: center;
 }
 
 
@@ -131,7 +135,7 @@ button {
     border-radius: 12px;
     color: white;
     font-weight: bold;
-    border: 2px solid #fbff00;
+    border: 2px solid #b3a163;
     margin: 10px;
     background-color: #612f74;
     cursor: pointer;
