@@ -28,8 +28,21 @@ body {
 
 .img-1 {
     width: 100%;
+    opacity: 0;
+    filter: blur(15px);
+    transition: all 3s;
+    transform: translate(-100%);
 
 }
+
+.show{
+    opacity: 1;
+    transition: all 3s;
+    filter: blur(0);
+    transform: translate(0);
+
+}
+
 
 .p-1 {
     color: white;
