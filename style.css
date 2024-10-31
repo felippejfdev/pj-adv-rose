@@ -80,8 +80,16 @@ body {
     text-align: center;
     font-size: 25px;
     color: white;
+   
 }
 
+
+.p-6 {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+   border: 2px solid #b3a163;
+}
 
 
 .wpp {
